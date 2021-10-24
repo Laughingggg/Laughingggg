@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Laughingggg
-- 👀 I’m an IT Recuiter
+- 👋 Hello, my name is Đăng Khoa, call me @Laughinggg is okiee.
+- 👀 I am an IT Recuiter
 - 🌱 Currently I am looking for teammates as Mobile Developer, Backend Developer to join our EdTech product
 - 📫 How to reach me: skype (live:11b2db18b35111dd)
 
